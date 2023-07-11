@@ -1,0 +1,32 @@
+{
+    "buckets": [
+        {
+          "id": 1,
+          "name": "Bucket 1",
+          "songs": [
+            {
+              "name": "Song 1",
+              "link": "https://example.com/song1.mp3"
+            },
+            {
+              "name": "Song 2",
+              "link": "https://example.com/song2.mp3"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Bucket 2",
+          "songs": [
+            {
+              "name": "Song 3",
+              "link": "https://example.com/song3.mp3"
+            },
+            {
+              "name": "Song 4",
+              "link": "https://example.com/song4.mp3"
+            }
+          ]
+        }
+      ]
+    }

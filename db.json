@@ -1,0 +1,60 @@
+{
+  "buckets": [
+    {
+      "id": 1,
+      "name": "ravi",
+      "songs": [
+        {
+          "name": "kushi",
+          "link": "https://www.youtube.com/embed/9AwF8Iyjbyk"
+        },
+        {
+          "name": "hey",
+          "link": "https://www.youtube.com/embed/BP4EvLtwwMo"
+        },
+        {
+          "name": "sei",
+          "link": "https://www.youtube.com/embed/9AwF8Iyjbyk"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "priya",
+      "songs": [
+        {
+          "name": "don",
+          "link": "https://share.streak.com/zjYYDajXQBlWZ2d8IFwt4q"
+        },
+        {
+          "name": "secong",
+          "link": "second"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "sadhu",
+      "songs": [
+        {
+          "name": "ishq",
+          "link": "https://www.youtube.com/embed/9AwF8Iyjbyk"
+        },
+        {
+          "name": "zsdf",
+          "link": "https://www.youtube.com/watch?v=rFPl2XY0uv4&ab_channel=SonyMusicSouth"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "sonu",
+      "songs": [
+        {
+          "name": "hari",
+          "link": "https://www.youtube.com/embed/9AwF8Iyjbyk"
+        }
+      ]
+    }
+  ]
+}
